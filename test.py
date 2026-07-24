@@ -10,4 +10,3 @@ def func():
     print("This is a function in the test.py file.")
 
 func()
-
